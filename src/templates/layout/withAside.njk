@@ -1,0 +1,12 @@
+{% extends 'layout/base.njk' %}
+
+{% block content %}
+    <div class="with-aside">
+        <aside class="aside">
+            {%block aside %}{% endblock %}
+        </aside>
+        <article class="prose flow">
+            {%block main %}{% endblock %}
+        </article>
+    </div>
+{% endblock %}

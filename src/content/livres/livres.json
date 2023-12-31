@@ -1,0 +1,7 @@
+{
+  "layout": "layout/article",
+  "tags": "livres",
+  "current": "/livres/",
+  "permalink": "livres/{{ title | slugify }}/index.html",
+  "searchable": true
+}

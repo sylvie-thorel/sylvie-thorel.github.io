@@ -1,0 +1,51 @@
+.theme-switcher svg {
+  transform: rotate(0);
+  transform-origin: center center;
+  transition: transform 0.5s cubic-bezier(0.5, 1.75, 0.75, 1.25) 0.35s;
+}
+[data-theme="dark"] .theme-switcher svg {
+  transform: rotate(-135deg);
+  transition-duration: 0.3s;
+  transition-delay: 0.2s;
+}
+
+[data-theme="dark"] .theme-switcher .moonMask circle {
+  transform: translate(0, 16%);
+}
+
+.theme-switcher .moonMask circle {
+  transition: transform 0.2s;
+  transform: translate(0, 0);
+}
+
+[data-theme="dark"] .theme-switcher .sunshine circle {
+  transform: scale(0);
+  transform-origin: center center;
+}
+
+.theme-switcher .sunshine circle {
+  --_delay: 0.05s;
+  transition: transform var(--_delay) cubic-bezier(0.5, 1, 0.5, 1) 0.3s;
+  transform: scale(1);
+}
+.theme-switcher .sunshine circle:nth-child(6) {
+  transition-duration: calc(var(--_delay) * 2);
+}
+.theme-switcher .sunshine circle:nth-child(5) {
+  transition-duration: calc(var(--_delay) * 3);
+}
+.theme-switcher .sunshine circle:nth-child(7) {
+  transition-duration: calc(var(--_delay) * 4);
+}
+.theme-switcher .sunshine circle:nth-child(4) {
+  transition-duration: calc(var(--_delay) * 5);
+}
+.theme-switcher .sunshine circle:nth-child(2) {
+  transition-duration: calc(var(--_delay) * 6);
+}
+.theme-switcher .sunshine circle:nth-child(1) {
+  transition-duration: calc(var(--_delay) * 7);
+}
+.theme-switcher .sunshine circle:nth-child(3) {
+  transition-duration: calc(var(--_delay) * 8);
+}

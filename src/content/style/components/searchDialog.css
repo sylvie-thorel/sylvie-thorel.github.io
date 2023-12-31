@@ -1,0 +1,64 @@
+.searchDialog {
+  --pagefind-ui-primary: var(--text);
+  --pagefind-ui-text: var(--text);
+  --pagefind-ui-background: var(--surface);
+  --pagefind-ui-border: var(--shade);
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-tag: var(--shade);
+  --pagefind-ui-font: var(--font-sans);
+
+  padding: 0;
+  margin: 0;
+  background-color: var(--surface);
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  max-height: 100%;
+  border: none;
+  color: inherit;
+
+  &[open] {
+    display: grid;
+  }
+
+  &::backdrop {
+    margin: 0;
+    background-color: hsl(0deg 0% 0% / 0.2);
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    max-height: 100%;
+    border: none;
+    -webkit-backdrop-filter: blur(0.25rem);
+    backdrop-filter: blur(0.25rem);
+  }
+  & .search-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-s);
+    padding: var(--space-s);
+    height: 100%;
+  }
+  & .closeBtn {
+    align-self: end;
+    height: 1em;
+  }
+
+  & mark {
+    background-color: transparent !important;
+    color: var(--text) !important;
+    font-weight: bold !important;
+  }
+}
+
+@media (min-width: 48rem) {
+  .searchDialog {
+    max-width: 40rem;
+    border-radius: 0.2rem;
+    margin-inline: auto;
+    margin-top: var(--space-3xl);
+    height: max-content;
+    min-height: 15rem;
+    max-height: calc(100% - 8rem);
+  }
+}

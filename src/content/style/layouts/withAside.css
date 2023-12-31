@@ -1,0 +1,19 @@
+.with-aside {
+  display: grid;
+  row-gap: var(--space-m);
+  column-gap: var(--space-3xl);
+}
+
+@media screen AND (min-width: 60rem) {
+  .with-aside {
+    display: grid;
+    grid-template-columns: min(66ch, 80%) 1fr;
+    grid-auto-flow: column;
+    & > .aside {
+      grid-column: 2;
+    }
+    &[data-align="center"] {
+      align-items: center;
+    }
+  }
+}

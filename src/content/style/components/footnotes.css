@@ -1,0 +1,22 @@
+.footnotes {
+  font-size: var(--fs--1);
+}
+
+.footnotes-list {
+  padding-inline-start: var(--space-m);
+}
+
+.footnote-ref a {
+  font-size: var(--fs--2);
+  &:hover,
+  &:focus-visible {
+    text-decoration: underline;
+  }
+}
+.footnotes-sep {
+  margin-block: var(--space-m) var(--space-2xs);
+}
+
+.footnotes-list:has(.footnote-item:target) .footnote-item:not(:target) {
+  color: var(--shade);
+}

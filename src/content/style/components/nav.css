@@ -1,0 +1,16 @@
+.nav {
+  margin-block-start: var(--space-2xs);
+  & ul {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: var(--space-s);
+  }
+}
+
+@media screen and (min-width: 60rem) {
+  .nav {
+    & ul {
+      flex-direction: column;
+    }
+  }
+}

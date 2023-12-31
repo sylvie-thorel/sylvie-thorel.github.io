@@ -1,0 +1,105 @@
+@import "./base/variables.css";
+@import "./base/fonts.css";
+@import "./base/reset.css";
+@import "./layouts/wrapper.css";
+@import "./layouts/withAside.css";
+@import "./layouts/twoCols.css";
+@import "./layouts/cluster.css";
+@import "./components/nav.css";
+@import "./components/theme-switcher.css";
+@import "./components/footnotes.css";
+@import "./components/articlesGroup.css";
+@import "./components/prose.css";
+@import "./components/searchDialog.css";
+@import "./components/blur.css";
+@import "./components/tippyBox.css";
+@import "./utilities.css";
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: var(--space-3xl);
+}
+
+body {
+  background: var(--surface);
+  color: var(--text);
+  font-family: var(--font-sans);
+  font-size: var(--fs-0);
+  line-height: 1.3;
+  padding-block: var(--space-3xl);
+}
+
+main {
+  margin-block-start: var(--space-2xl);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  line-height: 1.2;
+}
+
+h4 {
+  font-size: var(--fs-1);
+}
+
+h3 {
+  font-size: var(--fs-2);
+}
+
+h3 {
+  font-size: var(--fs-3);
+}
+
+h1 {
+  font-size: var(--fs-4);
+  font-family: var(--font-serif);
+  font-style: italic;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:not([class], [id]) {
+  background-image: linear-gradient(
+    to top,
+    currentColor,
+    currentColor var(--line-weight, 1px),
+    transparent var(--line-weight, 1px)
+  );
+  background-repeat: no-repeat;
+  background-size: 0%;
+  background-position: right;
+  transition: background-size 0.3s;
+  &:hover,
+  &:focus-visible,
+  &[aria-current="page"] {
+    background-size: 100%;
+    background-position: left;
+  }
+}
+
+button {
+  padding: 0;
+  line-height: 0;
+  border: 0;
+  font-size: 1rem;
+  background: transparent;
+  cursor: pointer;
+  color: var(--shade);
+  &:hover,
+  :focus-visible {
+    color: var(--text);
+  }
+}
+
+blockquote {
+  padding-inline-start: var(--space-s);
+  border-inline-start: 4px solid currentColor;
+  & > * + * {
+    margin-block-start: 1em;
+  }
+}

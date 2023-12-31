@@ -1,0 +1,33 @@
+{% extends 'layout/base.njk' %}
+{% block content %}
+    {%if collections[collection][0].data.category %}
+        {% for category, items in collections[collection] | sort(false, false, 'data.category') | groupby('data.category') %}
+            <div class="articlesGroup with-aside" data-align="center" >
+                <h2 class="aside">{{category}}</h2>
+                <ul role="list" class="">
+                    {% for item in items | sort(false, false, 'data.date') %}
+                        <li>
+                            <a href="{{ item.url }}" class >
+                                <span class="article-title">{{ item.data.title}}</span>
+                                <span class="article-date">{{ item.data.date | monthAndYear }}</span>
+                            </a>
+                        </li>
+                        {% endfor%}
+                    </ul>
+                </div>
+            {% endfor %}
+        {% else %}
+            <div class="two-cols">
+                {% for item in collections[collection]%}
+                    <div class="flow" style="--flow-space:var(--space-xs);">
+                        <h2>
+                            <a href="{{ item.url }}" style="--line-weight:2px;">
+                                {{item.data.title}}
+                            </a>
+                        </h2>
+                        <p>{{item.data.resume}}</p>
+                    </div>
+                {% endfor %}
+            </div>
+        {% endif %}
+    {% endblock %}

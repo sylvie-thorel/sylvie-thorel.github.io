@@ -1,0 +1,14 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  box-sizing: border-box;
+}
+ul[role="list"] {
+  list-style: none;
+  padding: 0;
+}
+
+button {
+  font-size: inherit;
+}

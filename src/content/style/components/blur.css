@@ -1,0 +1,10 @@
+.blur {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: var(--space-3xl);
+  background-color: var(--surface);
+  mask-image: linear-gradient(black 30%, transparent);
+  z-index: 10;
+  pointer-events: none;
+}

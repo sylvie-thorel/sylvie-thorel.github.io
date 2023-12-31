@@ -1,0 +1,10 @@
+{% extends 'layout/withAside.njk' %}
+{% block aside %}
+    {% if pdf %}
+        <a href="/{{pdf}}.pdf" download="{{pdf}}" style="font-style:italic;">Télécharger le fichier pdf</a>
+    {%endif %}
+{% endblock %}
+
+{% block main %}
+    {{ content | safe}}
+{% endblock %}
