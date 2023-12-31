@@ -1,9 +1,14 @@
 .nav {
-  margin-block-start: var(--space-2xs);
+  margin-block-start: var(--space-s);
   & ul {
     display: flex;
     flex-wrap: wrap;
     column-gap: var(--space-s);
+    row-gap: var(--space-xs);
+    --line-weight: 2px;
+  }
+  & a {
+    padding-block: 0.2rem;
   }
 }
 
