@@ -5,8 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>{{ title or site.title }}</title>
         <link rel="stylesheet" href="/style/index.css">
-        <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-        <script src="/pagefind/pagefind-ui.js"></script>
+        <link href="{{site.baseUrl}}/pagefind/pagefind-ui.css" rel="stylesheet">
+        <script src="{{site.baseUrl}}/pagefind/pagefind-ui.js"></script>
         <meta name="description" content="{{ site.description }}">
         <script >
             function _setTheme() {
@@ -33,6 +33,6 @@
         <main class="wrapper">
             {% block content %}{% endblock %}
         </main>
-        <script src="/scripts/index.js"></script>
+        <script src="{{site.baseUrl}}/scripts/index.js"></script>
     </body>
 </html>

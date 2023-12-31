@@ -7,7 +7,7 @@
                 <ul role="list" class="">
                     {% for item in items | sort(false, false, 'data.date') %}
                         <li>
-                            <a href="{{ item.url }}" class >
+                            <a href="{{ site.baseUrl }}{{ item.url }}" class >
                                 <span class="article-title">{{ item.data.title}}</span>
                                 <span class="article-date">{{ item.data.date | monthAndYear }}</span>
                             </a>
@@ -21,7 +21,7 @@
                 {% for item in collections[collection]%}
                     <div class="flow" style="--flow-space:var(--space-xs);">
                         <h2>
-                            <a href="{{ item.url }}" style="--line-weight:2px;">
+                            <a href="{{ site.baseUrl }}{{ item.url }}" style="--line-weight:2px;">
                                 {{item.data.title}}
                             </a>
                         </h2>
