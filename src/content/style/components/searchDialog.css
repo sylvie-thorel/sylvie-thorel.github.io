@@ -35,7 +35,7 @@
   & .search-wrapper {
     display: flex;
     flex-direction: column;
-    gap: var(--space-s);
+    gap: var(--space-l);
     padding: var(--space-s);
     height: 100%;
   }
