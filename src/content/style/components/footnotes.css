@@ -9,12 +9,13 @@
 }
 
 .footnote-ref a {
-  font-size: var(--fs--2);
+  font-size: var(--fs--1);
   &:hover,
   &:focus-visible {
     text-decoration: underline;
   }
 }
+
 .footnotes-sep {
   margin-block: var(--space-m) var(--space-2xs);
 }
