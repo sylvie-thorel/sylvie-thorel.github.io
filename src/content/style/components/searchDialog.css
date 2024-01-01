@@ -35,8 +35,8 @@
   & .search-wrapper {
     display: flex;
     flex-direction: column;
-    gap: var(--space-l);
-    padding: var(--space-s);
+    gap: var(--space-xl);
+    padding: var(--space-l) var(--space-s);
     height: 100%;
   }
   & .closeBtn {

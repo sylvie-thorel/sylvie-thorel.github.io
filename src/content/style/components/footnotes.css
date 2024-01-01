@@ -1,5 +1,7 @@
-.footnotes {
-  font-size: var(--fs--1);
+@media screen and (min-width: 30rem) {
+  .footnotes {
+    font-size: var(--fs--1);
+  }
 }
 
 .footnotes-list {
