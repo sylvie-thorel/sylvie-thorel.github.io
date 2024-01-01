@@ -13,7 +13,6 @@ const openDialog = () => {
 };
 
 const closeDialog = () => {
-  console.log(123);
   searchDialog.close();
   document.removeEventListener("click", clickOutside);
 };
