@@ -1,5 +1,12 @@
 <header class="wrapper with-aside" data-align="center">
-    <h1>{{title}}</h1>
+    <div class="pageTitle">
+        <h1>{{title}}</h1>
+        <time datetime="{{ date }}">
+            {% if date %}
+                {{ date | dateText }}
+            {% endif %}
+        </time>
+    </div>
     <div data-pagefind-ignore>
         <div class="cluster js-only" style="--gap:var(--space-s)">
             <button aria-label="rechercher" data-js="searchBtn">

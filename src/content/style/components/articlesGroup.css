@@ -1,6 +1,5 @@
 .articlesGroup {
   color: var(--shade);
-
   row-gap: var(--space-xs);
   padding-block: 1em;
   font-weight: normal;
@@ -32,7 +31,6 @@
     }
     & .article-date {
       font-size: var(--fs--1);
-      font-style: italic;
     }
   }
 }

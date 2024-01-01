@@ -11,6 +11,7 @@
 @import "./components/prose.css";
 @import "./components/searchDialog.css";
 @import "./components/blur.css";
+@import "./components/pageTitle.css";
 @import "./components/tippyBox.css";
 @import "./utilities.css";
 
@@ -103,4 +104,9 @@ blockquote {
   & > * + * {
     margin-block-start: 1em;
   }
+}
+
+time {
+  font-family: var(--font-mono);
+  font-style: italic;
 }

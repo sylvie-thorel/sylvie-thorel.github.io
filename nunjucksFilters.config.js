@@ -11,4 +11,29 @@ module.exports = function (config) {
       return month + "/" + date.getFullYear();
     }
   );
+
+  config.addNunjucksFilter(
+    "dateText",
+    /**
+     * @param {string} text
+     */
+    (text) => {
+      const date = new Date(text);
+      const monthes = [
+        "janvier",
+        "février",
+        "mars",
+        "avril",
+        "mai",
+        "juin",
+        "juillet",
+        "août",
+        "septembre",
+        "octobre",
+        "novembre",
+        "décembre",
+      ];
+      return monthes[date.getMonth()] + " " + date.getFullYear();
+    }
+  );
 };

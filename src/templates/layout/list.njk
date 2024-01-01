@@ -9,7 +9,7 @@
                         <li>
                             <a href="{{ site.baseUrl }}{{ item.url }}" class >
                                 <span class="article-title">{{ item.data.title}}</span>
-                                <span class="article-date">{{ item.data.date | monthAndYear }}</span>
+                                <time datetime="{{ item.data.date }}" class="article-date">{{ item.data.date | monthAndYear }}</time>
                             </a>
                         </li>
                         {% endfor%}
