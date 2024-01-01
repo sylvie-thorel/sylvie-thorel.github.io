@@ -1,7 +1,6 @@
 module.exports = {
   title: "Sylvie Thorel",
   language: "fr",
-  url: "https://example.com",
-  baseUrl: "/sylvie-thorel",
+  baseUrl: process.env.BASEURL ?? "",
   description: "Ceci n'est pas un site.",
 };
