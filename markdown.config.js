@@ -21,7 +21,12 @@ module.exports = function (config) {
     ) {
       let id = slf.rules.footnote_anchor_name(tokens, idx, options, env, slf);
       if (tokens[idx].meta.subId > 0) id += `:${tokens[idx].meta.subId}`;
-      return ` <a href="#fnref${id}" class="footnote-backref" title="revenir plus haut" aira-label="revenir plus haut">\u21a9\uFE0E</a>`;
+      return ` 
+      <a href="#fnref${id}" class="footnote-backref" title="revenir plus haut" aira-label="revenir plus haut">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" width="1em" height="1em">
+          <path stroke-linecap="round" stroke-linejoin="round" d="m9 9 6-6m0 0 6 6m-6-6v12a6 6 0 0 1-12 0v-3" />
+        </svg>
+      </a>`;
     };
   });
 };
