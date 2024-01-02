@@ -5,7 +5,7 @@
             <div class="articlesGroup with-aside" data-align="center" >
                 <h2 class="aside">{{category}}</h2>
                 <ul role="list" class="">
-                    {% for item in items | sort(false, false, 'data.date') %}
+                    {% for item in items | sort(true, false, 'data.date') %}
                         <li>
                             <a href="{{ site.baseUrl }}{{ item.url }}" class >
                                 <span class="article-title">{{ item.data.title}}</span>
@@ -18,7 +18,7 @@
             {% endfor %}
         {% else %}
             <div class="two-cols">
-                {% for item in collections[collection]%}
+                {% for item in collections[collection] | sort(true, false, 'data.date') %}
                     <div class="flow" style="--flow-space:var(--space-xs);">
                         <h2>
                             <a href="{{ site.baseUrl }}{{ item.url }}" style="--line-weight:2px;">
