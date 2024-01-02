@@ -1,7 +1,0 @@
-{
-  "layout": "layout/article",
-  "tags": "cours",
-  "current": "/cours/",
-  "permalink": "cours/{{ title | slugify }}/index.html",
-  "searchable": true
-}

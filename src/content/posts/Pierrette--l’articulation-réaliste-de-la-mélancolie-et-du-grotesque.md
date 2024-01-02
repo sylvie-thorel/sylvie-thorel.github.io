@@ -1,4 +1,5 @@
 ---
+tags: articles
 title: "Pierrette : l’articulation réaliste de la mélancolie et du grotesque"
 category: Grotesque
 date: 2020-01-02

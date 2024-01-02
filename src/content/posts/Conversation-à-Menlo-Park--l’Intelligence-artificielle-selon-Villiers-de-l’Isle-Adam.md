@@ -1,4 +1,5 @@
 ---
+tags: articles
 title: "Conversation à Menlo Park : l’Intelligence artificielle selon Villiers de l’Isle-Adam"
 category: Automate
 date: 2023-12-01

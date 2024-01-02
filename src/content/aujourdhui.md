@@ -1,7 +1,7 @@
 ---
 title: Aujourd'hui
 tags: pages
-layout: "layout/article"
+layout: "layout/post"
 order: 0
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: 'Splendeurs de la médiocrité: une idée du roman'
+tags: livres
+title: "Splendeurs de la médiocrité: une idée du roman"
 date: 2008-03-13
 resume: >-
   Présentation du genre romanesque comme dévolu à l'exploration, en prose, de

@@ -1,4 +1,5 @@
 ---
+tags: articles
 title: Mirbeau, la nouvelle anarchiste
 category: Humour noir
 date: 2022-01-16

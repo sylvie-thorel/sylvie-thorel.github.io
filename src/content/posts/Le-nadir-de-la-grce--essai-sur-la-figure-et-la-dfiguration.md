@@ -1,5 +1,6 @@
 ---
-title: 'Le nadir de la grâce: essai sur la figure et la défiguration'
+tags: livres
+title: "Le nadir de la grâce: essai sur la figure et la défiguration"
 date: 2012-01-24
 resume: >-
   S'appuyant sur l'histoire, l'esthétique et la littérature, cet essai

@@ -1,7 +1,6 @@
 ---
 title: Articles
-tags: pages
-layout: "layout/list"
 collection: "articles"
+byCategory: true
 order: 2
 ---

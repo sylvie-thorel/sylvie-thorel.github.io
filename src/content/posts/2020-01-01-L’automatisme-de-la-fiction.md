@@ -1,4 +1,5 @@
 ---
+tags: articles
 title: L’automatisme de la fiction
 date: 2009-01-01
 category: Automate

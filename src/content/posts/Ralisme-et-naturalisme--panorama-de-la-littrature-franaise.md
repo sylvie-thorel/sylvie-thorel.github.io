@@ -1,9 +1,6 @@
 ---
-editor: Hachette Éducation
-authors:
-  - ''
-  - Sylvie Thorel
-title: 'Réalisme et naturalisme: panorama de la littérature française'
+tags: livres
+title: "Réalisme et naturalisme: panorama de la littérature française"
 date: 1997-12-31
 resume: >-
   Dans les divers mouvements et écoles où semblent se disperser le XIXe siècle,

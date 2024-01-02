@@ -1,4 +1,5 @@
 ---
+tags: cours
 title: Baudelaire
 date: 2009-01-01
 resume: "Cette entrée en matière est assez longue et elle pourra vous sembler parfois éloignée du sujet – je pense en particulier au développement sur la perspective et au développement sur Les Grotesques de Gautier, qui me semblent pourtant très utiles et même nécessaires."

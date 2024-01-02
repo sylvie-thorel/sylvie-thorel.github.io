@@ -1,7 +1,0 @@
-{
-  "layout": "layout/article",
-  "tags": "articles",
-  "current": "/articles/",
-  "permalink": "articles/{{ title | slugify }}/index.html",
-  "searchable": true
-}

@@ -1,4 +1,5 @@
 ---
+tags: articles
 title: Le laid idéal
 category: Grotesque
 date: 2020-01-01

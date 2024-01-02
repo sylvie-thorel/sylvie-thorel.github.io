@@ -1,0 +1,6 @@
+{
+  "layout": "layout/post",
+  "tags": "post",
+  "permalink": "{{tags | last | slugify}}/{{ title | slugify }}/index.html",
+  "searchable": true
+}

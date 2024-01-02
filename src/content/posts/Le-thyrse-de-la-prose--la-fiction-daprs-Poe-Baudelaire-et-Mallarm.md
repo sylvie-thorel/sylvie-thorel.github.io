@@ -1,5 +1,6 @@
 ---
-title: 'Le thyrse de la prose: la fiction d''après Poe, Baudelaire et Mallarmé'
+tags: livres
+title: "Le thyrse de la prose: la fiction d'après Poe, Baudelaire et Mallarmé"
 date: 2011-11-24
 resume: >-
   Au début du XIXe siècle, la poésie classique aux vers mesurés connaît une
