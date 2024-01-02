@@ -1,5 +1,4 @@
 ---
-title: Sylvie Thorel
 layout: "layout/home"
 email: sytho@gmail.com
 ---

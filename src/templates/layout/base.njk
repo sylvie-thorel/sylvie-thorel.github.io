@@ -3,10 +3,16 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>{{ title or site.title }}</title>
+        {% if title %}
+            <title>{{ title}} • {{site.title }}</title>
+        {% else %}
+            <title>
+                {{site.title }}</title>
+        {% endif %}
         <link rel="stylesheet" href="{{site.baseUrl}}/style/index.css">
         <link href="{{site.baseUrl}}/pagefind/pagefind-ui.css" rel="stylesheet">
         <script src="{{site.baseUrl}}/pagefind/pagefind-ui.js"></script>
+        <link rel="shortcut icon" href="{{site.baseUrl}}/favicon.svg" type="image/svg+xml">
         <meta name="description" content="{{ site.description }}">
         {% include "fonts.njk" %}
         <script >
