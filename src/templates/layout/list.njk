@@ -1,9 +1,11 @@
 {% extends 'layout/base.njk' %}
 {% block content %}
-    {%if collections[collection][0].data.category %}
+    {%if byCategory %}
         {% for category, items in collections[collection] | sort(false, false, 'data.category') | groupby('data.category') %}
             <div class="articlesGroup with-aside" data-align="center" >
-                <h2 class="aside">{{category}}</h2>
+                {% if category != "undefined" %}
+                    <h2 class="aside">{{ category }}</h2>
+                {% endif %}
                 <ul role="list" class="">
                     {% for item in items | sort(true, false, 'data.date') %}
                         <li>
