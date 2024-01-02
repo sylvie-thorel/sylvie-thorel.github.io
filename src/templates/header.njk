@@ -68,7 +68,7 @@
                 </li>
                 {% for link in collections.pages | sort(false,false,'data.order')%}
                     <li>
-                        <a {% if page.url === link.url or current === link.url %}aria-current="page"{% endif %} href="{{site.baseUrl}}{{ link.url }}">
+                        <a {{ 'aria-current="page"'|safe if (page.url === link.url) or (tags and tags|last == link.data.collection) }} href="{{ link.url }}">
                             {{ link.data.title }}
                         </a>
                     </li>
