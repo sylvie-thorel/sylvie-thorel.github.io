@@ -24,6 +24,7 @@ jobs:
         run: |
           npm run build
         env:
+          HOSTURL: "https://achtaitaipai.github.io"
           BASEURL: "/sylvie-thorel"
 
       - name: Upload Artifacts
