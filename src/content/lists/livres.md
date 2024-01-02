@@ -1,5 +1,5 @@
 ---
 title: Livres
 collection: livres
-order: 3
+order: 2
 ---
