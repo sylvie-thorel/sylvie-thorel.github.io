@@ -16,7 +16,7 @@ module.exports = function (config) {
         widths: [400, 800],
         formats,
         outputDir: path.join(config.dir.output, "img"),
-        urlPath: process.env.URL ?? "",
+        urlPath: (process.env.URL ?? "") + "/img",
       };
       const metadata = eleventyImage.statsSync(imgPath, imageOptions);
       eleventyImage(imgPath, imageOptions);
