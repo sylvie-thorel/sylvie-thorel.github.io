@@ -64,11 +64,11 @@
         <nav class="nav">
             <ul role="list" >
                 <li>
-                    <a href="{{site.baseUrl}}/" {% if page.url === '/' %}aria-current="page" {% endif %}>Bonjour</a>
+                    <a href="{{site.url}}/" {% if page.url === '/' %}aria-current="page" {% endif %}>Bonjour</a>
                 </li>
                 {% for link in collections.pages | sort(false,false,'data.order')%}
                     <li>
-                        <a {{ 'aria-current="page"'|safe if (page.url === link.url) or (tags and tags|last == link.data.collection) }} href="{{ site.baseUrl }}{{ link.url }}">
+                        <a {{ 'aria-current="page"'|safe if (page.url === link.url) or (tags and tags|last == link.data.collection) }} href="{{ site.url }}{{ link.url }}">
                             {{ link.data.title }}
                         </a>
                     </li>

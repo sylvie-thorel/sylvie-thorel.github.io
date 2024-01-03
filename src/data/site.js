@@ -1,7 +1,6 @@
 module.exports = {
   title: "Sylvie Thorel",
   language: "fr",
-  hostUrl: process.env.HOSTURL ?? "",
-  baseUrl: process.env.BASEURL ?? "",
+  url: process.env.URL ?? "",
   description: "Ceci n'est pas un site.",
 };

@@ -9,7 +9,7 @@
                 <ul role="list" class="">
                     {% for item in items | sort(true, false, 'data.date') %}
                         <li>
-                            <a href="{{ site.baseUrl }}{{ item.url }}" class >
+                            <a href="{{ site.url }}{{ item.url }}" class >
                                 <span class="article-title">{{ item.data.title}}</span>
                                 <time datetime="{{ item.data.date }}" class="article-date">{{ item.data.date | monthAndYear }}</time>
                             </a>
@@ -23,7 +23,7 @@
                 {% for item in collections[collection] | sort(true, false, 'data.date') %}
                     <div class="flow" style="--flow-space:var(--space-xs);">
                         <h2>
-                            <a href="{{ site.baseUrl }}{{ item.url }}" style="--line-weight:2px;">
+                            <a href="{{ site.url }}{{ item.url }}" style="--line-weight:2px;">
                                 {{item.data.title}}
                             </a>
                         </h2>

@@ -9,10 +9,10 @@
             <title>
                 {{site.title }}</title>
         {% endif %}
-        <link rel="stylesheet" href="{{site.baseUrl}}/style/index.css">
-        <link href="{{site.baseUrl}}/pagefind/pagefind-ui.css" rel="stylesheet">
-        <script src="{{site.baseUrl}}/pagefind/pagefind-ui.js"></script>
-        <link rel="shortcut icon" href="{{site.baseUrl}}/favicon.svg" type="image/svg+xml">
+        <link rel="stylesheet" href="{{site.url}}/style/index.css">
+        <link href="{{site.url}}/pagefind/pagefind-ui.css" rel="stylesheet">
+        <script src="{{site.url}}/pagefind/pagefind-ui.js"></script>
+        <link rel="shortcut icon" href="{{site.url}}/favicon.svg" type="image/svg+xml">
         <meta name="description" content="{{ site.description }}">
         {% include "fonts.njk" %}
         <script >
@@ -40,6 +40,6 @@
         <main class="wrapper">
             {% block content %}{% endblock %}
         </main>
-        <script src="{{site.baseUrl}}/scripts/index.js"></script>
+        <script src="{{site.url}}/scripts/index.js"></script>
     </body>
 </html>

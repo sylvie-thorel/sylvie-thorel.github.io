@@ -1,7 +1,7 @@
 {% extends 'layout/withAside.njk' %}
 {% block aside %}
     {% if pdf %}
-        <a href="{{site.baseUrl}}/{{pdf}}.pdf" download="{{pdf}}" style="font-style:italic;">Télécharger le fichier pdf</a>
+        <a href="{{site.url}}/{{pdf}}.pdf" download="{{pdf}}" style="font-style:italic;">Télécharger le fichier pdf</a>
     {%endif %}
 {% endblock %}
 
