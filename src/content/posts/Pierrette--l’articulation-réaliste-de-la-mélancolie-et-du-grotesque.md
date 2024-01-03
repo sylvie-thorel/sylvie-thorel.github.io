@@ -347,6 +347,8 @@ Revoir le passage clairement humoristique mentionné plus haut : des rêves exo
 
 Du haut de la pendule, vous êtes regardés à la manière des Rogron, d’un air niais, par ce gros lion bon enfant, appelé lion d’ornement, et qui nuira pendant longtemps aux vrais lions. Ce lion roule sous une de ses pattes une grosse boule, un détail des mœurs du lion d’ornement ; il passe sa vie à tenir une grosse boule noire, absolument comme un Député de la Gauche. Peut-être est-ce un mythe constitutionnel (p. 60).
 
+![](pendule-lion.jpg)
+
 Quand Jakobson caractérise le réalisme par le recours au « détail inessentiel », il ne pose pas la question de la tonalité et celle-ci se perd complètement quand on raisonne comme Barthes en termes d’« effet de réel » et même quand on s’oppose à Barthes, comme le fait Rancière, en mettant en avant l’idée fondamentalement démocratique de « partage du sensible ». Je ne résiste pas au plaisir de citer, dans _Pierrette,_ les deux passages où il est question d’un baromètre ; c’est d’abord Mme Tiphaine qui parle, dans le même morceau :
 
 Au-dessus de l’autre \[buffet\] se trouve un baromètre excessivement orné, qui paraît devoir jouer un grand rôle dans leur existence : le Rogron le regarde comme il regarderait sa prétendue (p. 59).

@@ -1,3 +1,7 @@
 .prose {
   max-width: 66ch;
+  & img {
+    margin-inline: auto;
+    height: auto;
+  }
 }
