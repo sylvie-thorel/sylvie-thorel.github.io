@@ -24,8 +24,8 @@ jobs:
         run: |
           npm run build
         env:
-          URL: "https://achtaitaipai.github.io/sylvie-thorel"
-          BASEURL: "/sylvie-thorel"
+          URL: "https://sylvie-thorel.github.io"
+          BASEURL: ""
 
       - name: Upload Artifacts
         uses: actions/upload-pages-artifact@v2
