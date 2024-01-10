@@ -3,4 +3,4 @@ layout: "layout/home"
 email: sytho@gmail.com
 ---
 
-Lorem ipsum footnote sit, amet consectetur adipisicing elit. Quae officiis saepe, pariatur adipisci repellendus odit dolorum ipsum odio accusantium ex dignissimos rem in est corrupti? Vero ipsum alias earum nihil.
+Professeure émérite de l’Université de Lille, naguère enseignante au Collège Sévigné, actuellement chargée de cours à l’Université Paris Cité, je publie sur ce site mes travaux passés ou en cours : des présentations et des extraits de livres, des articles et conférences, des cours, des notes. L’ensemble porte généralement sur la littérature française du XIXe siècle mais s’étend parfois au-delà. J’y traite de la prose, de la fiction, du roman, des représentations de la réalité, dans une perspective historienne, formelle et logique.
