@@ -1,6 +1,6 @@
 ---
 tags: articles
-category: Grotesque
+category: Humour noir
 date: 2020-03-30
 title: "Le comble de la mélancolie: Huysmans"
 
