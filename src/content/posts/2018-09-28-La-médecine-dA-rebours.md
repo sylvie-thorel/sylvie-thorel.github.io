@@ -6,8 +6,6 @@ title: "La médecine d'A rebours"
 
 ---
 
-# La médecine d’*A rebours*
-
  
 
 Le Fumisme est à l’esprit ce que l’opérette est à l’opéra-bouffe, la charge à la caricature, le pruneau à l’eau d’Hunyadi-Janos[[1\]](#_ftn1). Celui qui signe ces lignes est particulièrement fier de cette dernière comparaison. Qu’y a-t-il en somme de plus particulièrement fumiste que le pruneau qui se présentant sous les dehors les plus bénévoles renferme dans ses entrailles des révoltes inattendues ? L’homme d’esprit a vis-à-vis du fumiste une double infériorité […]. L’esprit demande à être payé sur-le-champ par des bravos ou de discrets sourires, le fumisme porte en lui-même sa propre récompense : il fait de l’art pour l’art. Afin de passer pour homme d’esprit, il suffit parfois d’être un âne couvert de la peau du lion ; pour être bon fumiste il est souvent indispensable d’être un lion couvert d’une peau d’âne. Dans le premier cas l’effet est direct, dans le second, il est une fois, deux fois, souvent dix fois réflexe.
