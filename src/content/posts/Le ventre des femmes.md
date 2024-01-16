@@ -2,15 +2,9 @@
 tags: articles
 category: Femmes
 date: 2015-08-01
-title: "Le ventre des femme; le cerveau des poètes"
+title: "Le ventre des femmes; le cerveau des poètes"
 
 ---
-
-# Le ventre des femmes; 
-
-# le cerveau des poètes
-
- 
 
 Se pourrait-il que, au lieu de la nourrir, les sciences procèdent de la rêverie ou cheminent au moins de conserve avec elle ? L’histoire des représentations du corps et spécialement du corps féminin, qui est un extraordinaire foyer fantasmatique, tendrait à donner de la solidité à cette hypothèse : dans la seconde moitié du XIXe siècle, il est difficile de démêler la part respective des romans réalistes ou naturalistes et des travaux de Charcot dans l’élaboration d’un imaginaire de la femme qui sert peut-être un projet aussi poétique que médical.
 
