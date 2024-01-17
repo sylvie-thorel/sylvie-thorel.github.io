@@ -1,9 +1,8 @@
 ---
 tags: articles
+title: *Le Camion* de Duras ou les moyens de la mélancolie
 category: Mélancolie
 date: 2021-04-01
-title: *Le Camion* de Duras ou les moyens de la mélancolie
-
 ---
 
 Le moment du *Camion* est le moment théorique de Duras. La question touche *a priori* au véhicule et au voyage soit, tout ensemble, au *medium* tenu pour *transport* – ce mot, pris dans tous les sens : « circulation », « transgression », « ravissement » ou même « intoxication », « *trip* », dont les moyens seraient la métaphore et la métalepse, qu’il permet. Ici, le principe de la fiction est qu’on l’intériorise ; que, suivant une formule d’Avital Ronell, elle passe « dans le sang ». *Le Navire Night* parachèvera cette réflexion et permettra bientôt, mesure ayant été prise de l’enjeu et après l’atteinte d’une extrémité, *L’Homme atlantique*, de revenir au livre et à ses prestiges abandonnés depuis *Détruire dit-elle,* en 1969.
