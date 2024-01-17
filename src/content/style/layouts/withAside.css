@@ -1,10 +1,10 @@
 .with-aside {
   display: grid;
   row-gap: var(--space-m);
-  column-gap: var(--space-3xl);
+  column-gap: var(--space-xl);
 }
 
-@media screen AND (min-width: 60rem) {
+@media (width > 80rem) {
   .with-aside {
     display: grid;
     grid-template-columns: min(66ch, 80%) 1fr;

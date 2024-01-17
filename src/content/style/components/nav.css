@@ -12,7 +12,7 @@
   }
 }
 
-@media screen and (min-width: 60rem) {
+@media (width > 80rem) {
   .nav {
     & ul {
       flex-direction: column;

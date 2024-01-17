@@ -3,7 +3,7 @@
   gap: var(--space-xl);
 }
 
-@media screen AND (min-width: 60rem) {
+@media (width > 60rem) {
   .two-cols {
     max-width: none;
     grid-template-columns: 1fr 1fr;
