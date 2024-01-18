@@ -1,6 +1,6 @@
 ---
 tags: articles
-title: *Le Camion* de Duras ou les moyens de la mélancolie
+title: Le Camion de Duras ou les moyens de la mélancolie
 category: Mélancolie
 date: 2021-04-01
 ---
