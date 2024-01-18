@@ -1,6 +1,6 @@
 ---
 tags: articles
-category: Femmes
+category: Corps
 date: 2015-08-01
 title: "Le ventre des femmes; le cerveau des poètes"
 
