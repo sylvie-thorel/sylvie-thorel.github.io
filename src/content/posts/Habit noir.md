@@ -6,7 +6,6 @@ title: "Habit noir"
 
 ---
 
-## Habit noir
 
 ​      Chateaubriand comparait la société de 1789 et 1790 « à l’architecture du temps de Louis XII et de François Ier, lorsque les ordres grecs se vinrent mêler au style gothique », et il l’assimilait « à la collection des ruines et des tombeaux de tous les siècles, entassés pêle-mêle après la Terreur dans le cloître des Petits-Augustins » en évoquant quelques tableaux curieux, parmi lesquels celui-ci : « Auprès d’un homme en habit français, tête poudrée, épée au côté, chapeau sous le bras, escarpins et bas de soie, marchait un homme, cheveux coupés et sans poudre, portant le frac anglais et la cravate américaine. » Cohabitent ainsi non seulement deux époques mais avec eux les deux mondes que sépare « le gouffre des révolutions » ; bientôt « le frac anglais » imposera sa coupe étroite et ses sombres couleurs à toute la société française du XIXe siècle, dont il deviendra l’uniforme et le symbole par excellence.
 
