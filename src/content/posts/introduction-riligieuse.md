@@ -1,8 +1,7 @@
 ---
 tags: cours
-category: Chabert
 date: 2024-02-15
-title: Le Colonel Chabert. Synthèse
+title: Introduction à la religieuse
 ---
 
 # Figure
