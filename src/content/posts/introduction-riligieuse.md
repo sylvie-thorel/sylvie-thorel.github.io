@@ -1,9 +1,9 @@
 ---
 tags: cours
 date: 2024-02-15
-title: Introduction à la religieuse
+title: Introduction à *La Religieuse*
 description: |
-  Diderot accorde à la fiction, telle qu’il en trouve le modèle inégalé dans l’œuvre de Richardson, une rare puissance herméneutique, d’ordre moral : à sa lumière, les ombres fallacieuses se dissipent et les hideurs cachées se révèlent. Inversion des valeurs ; un mensonge spécifique se retourne contre les mensonges ordinaires, il lève le voile qui dissimulait la vérité. On entend dans la référence implicite faite ici à l’allégorie platonicienne, renforcée par l’image d’un « évangile », que la fiction forme un instrument philosophique susceptible de servir l’athéisme radical de l’auteur de ces pages. _La Religieuse_ est le laboratoire où il l’invente.
+  Diderot accorde à la fiction, telle qu’il en trouve le modèle inégalé dans l’œuvre de Richardson, une rare puissance herméneutique, d’ordre moral : à sa lumière, les ombres fallacieuses se dissipent et les hideurs cachées se révèlent. Inversion des valeurs ; un mensonge spécifique se retourne contre les mensonges ordinaires, il lève le voile qui dissimulait la vérité. On entend dans la référence implicite faite ici à l’allégorie platonicienne, renforcée par l’image d’un « évangile », que la fiction forme un instrument philosophique susceptible de servir l’athéisme radical de l’auteur de ces pages. *La Religieuse* est le laboratoire où il l’invente.
 ---
 
 ## Figure
