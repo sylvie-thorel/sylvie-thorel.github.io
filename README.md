@@ -30,14 +30,14 @@ Le contenu de la page suit le second `---`.
 
 Valeurs du frontmatter.
 
-| Entrées     | Type de valeur                             | Fonction                                                  | Obligatoire | Types de post concernés |
-| ----------- | ------------------------------------------ | --------------------------------------------------------- | ----------- | ----------------------- |
-| tags        | cours                                      | Permet de définir dans quelle liste le post sera affichée | oui         | tous                    |
-| title       | chaîne de caractère                        | titre du projet                                           | oui         | tous                    |
-| date        | date au format aaaa-mm-jj                  | 1993-01-09                                                | oui         | tous                    |
-| pdf         | nom du fichier pdf sans l'extension ".pdf" | permet d'ajouter un lien vers un fichier pdf              | non         | tous                    |
-| description | chaîne de caractère                        | Description du post. Pour les livres et les cours         | non         | livres et cours         |
-| category    | catégorie du l'article                     | Permet de trier les articles par catégorie                | oui         | articles                |
+| Entrées     | Type de valeur                             | Fonction                                          | Obligatoire | Types de post concernés                                   |
+| ----------- | ------------------------------------------ | ------------------------------------------------- | ----------- | --------------------------------------------------------- | --- | ---- |
+| tags        | cours                                      | livres                                            | articles    | Permet de définir dans quelle liste le post sera affichée | oui | tous |
+| title       | chaîne de caractère                        | titre du projet                                   | oui         | tous                                                      |
+| date        | date au format aaaa-mm-jj                  | 1993-01-09                                        | oui         | tous                                                      |
+| pdf         | nom du fichier pdf sans l'extension ".pdf" | permet d'ajouter un lien vers un fichier pdf      | non         | tous                                                      |
+| description | chaîne de caractère                        | Description du post. Pour les livres et les cours | non         | livres et cours                                           |
+| category    | catégorie du l'article                     | Permet de trier les articles par catégorie        | oui         | articles                                                  |
 
 ## Ajouter un fichier pdf
 
