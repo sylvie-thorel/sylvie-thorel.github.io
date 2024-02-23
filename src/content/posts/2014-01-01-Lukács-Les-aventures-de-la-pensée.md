@@ -3,6 +3,7 @@ tags: articles
 category: Théorie
 date: 2014-01-01
 title: "Lukács: Les aventures de la pensée"
+pdf: les-aventures-de-la-pensee
 ---
 
 *La Théorie du roman* : rien n’est plus curieux que les modalités énonciatives de ce grand texte, dans lequel on est tenté de chercher pourtant l’expression d’une vérité quant au destin du roman. L’essai s’ouvre sur une manière de chant dont rien ne permet de penser que Lukács le délègue à quiconque ; aucune trace de discours indirect dans ces mots bien connus, qu’il faut donc attribuer à leur auteur officiel :
