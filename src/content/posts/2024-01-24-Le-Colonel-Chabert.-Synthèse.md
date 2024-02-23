@@ -3,6 +3,7 @@ tags: cours
 category: Chabert
 date: 2024-01-24
 title: Le Colonel Chabert. Synthèse
+description:  Le Colonel Chabert appartient à une histoire des vaincus qui forme l’objet des romanciers dits « réalistes » du XIXe siècle. Balzac s’installe dans les gouffres et les cloaques où les puissants ne s’aventurent pas, il inverse les perspectives et retourne les valeurs au point, élaborant avant la lettre une réflexion sur « l’héroïsme de la vie moderne », d’abriter désormais le sublime dans la hideur. Désenchantement, perte des illusions, nostalgie d’une harmonie introuvable, certes ; il en va aussi d’une thèse sur l’Histoire encore inédite.
 ---
 Cette sombre histoire d’un retour empêché, souvent mise en scène pour le théâtre, le cinéma et la télévision, est certainement l’une des œuvres de Balzac à la fois les plus célèbres et les moins étudiées, peut-être parce qu’elle paraît simple au point d’en devenir universelle, « miroir possible de tous les temps et tous les pays »[^1], œuvre où commencerait même d’être pensée la barbarie *actuelle*[^2]… Il se peut que le génie du *Colonel Chabert* soit de bouleverser le lecteur et d’en appeler à son présent au point d’arrêter l’interprétation.
 
