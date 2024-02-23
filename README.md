@@ -87,5 +87,5 @@ description: >-
   cinéma.
 ---
 
-## Description du livre
+Description du livre
 ```
