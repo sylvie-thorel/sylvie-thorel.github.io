@@ -32,7 +32,7 @@ Valeurs du frontmatter.
 
 | Entrées     | Type de valeur                             | Fonction                                                  | Obligatoire | Types de post concernés |
 | ----------- | ------------------------------------------ | --------------------------------------------------------- | ----------- | ----------------------- |
-| tags        | cours ou livres ou articles                | Permet de définir dans quelle liste le post sera affichée | oui         | tous                    |
+| tags        | `cours` ou `livres` ou `articles`          | Permet de définir dans quelle liste le post sera affichée | oui         | tous                    |
 | title       | chaîne de caractère                        | titre du projet                                           | oui         | tous                    |
 | date        | date au format aaaa-mm-jj                  | 1993-01-09                                                | oui         | tous                    |
 | pdf         | nom du fichier pdf sans l'extension ".pdf" | permet d'ajouter un lien vers un fichier pdf              | non         | tous                    |
