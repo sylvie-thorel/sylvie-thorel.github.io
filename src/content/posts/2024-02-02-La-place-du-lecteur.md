@@ -1,10 +1,8 @@
 ---
 tags: cours
-
 date: 2024-02-02
 title: La place du lecteur dans La Religieuse
-description:
-|
+description: |
   Si paradoxale soit la formulation, le roman ne doit pas être confondu avec la succession des mots supposés avoir été couchés sur le papier par la narratrice, il ne coïncide pas exactement avec lui-même parce que Diderot y a introduit du jeu, en procédant d’une manière comparable à celle des peintres de Suzanne au bain. En se garantissant pour lecteur non seulement un homme à l’imagination vive mais un amateur des beaux-arts, il engage à pallier les lacunes d’un texte essentiellement suggestif. La duplicité d’un récit dont la narratrice, l’ayant entièrement relu, hésite si elle l’a destiné à la bienfaisance ou au vice de son lecteur, repose sur la simplicité de cette dernière.
 ---
 
