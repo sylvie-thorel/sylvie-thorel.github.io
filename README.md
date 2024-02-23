@@ -41,7 +41,10 @@ Valeurs du frontmatter.
 
 ## Ajouter un fichier pdf
 
-Pour ajouter un fichier pdf au site. Ajouter le fichiers dans le dossier [/public/](/public/)
+Pour ajouter un fichier pdf au site.
+
+- Ajouter le fichiers dans le dossier [/public/](/public/)
+- ajouter l'entrée `pdf: nomdufichier` dans le frontmatter du post concerné
 
 ## Exemples
 
