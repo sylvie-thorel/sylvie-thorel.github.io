@@ -1,9 +1,9 @@
-```
+---
 tags: articles
 category: Baudelaire
 date: 2014-01-01
 title: Portrait du poète en anachorète
-```
+---
 
 Au plus profond des *Fleurs du mal,* dans la section qui en redouble le titre et pourrait réfléchir le recueil entier, Baudelaire convoque fugitivement une ancienne figure :
 
