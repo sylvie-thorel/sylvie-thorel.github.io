@@ -1,5 +1,3 @@
-[site](https://sylvie-thorel.github.io)
-
 # Mode d'emploi
 
 ## Créer un post
