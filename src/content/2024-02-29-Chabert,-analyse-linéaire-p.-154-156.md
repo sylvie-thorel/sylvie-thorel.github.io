@@ -1,4 +1,5 @@
 ---
+tags: Cours
 date: 2024-02-29
 title: Chabert, analyse linéaire p. 154-156
 description: Exercice rédigé (cliquez)
