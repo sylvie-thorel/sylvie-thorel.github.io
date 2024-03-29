@@ -1,7 +1,7 @@
 ---
 tags: cours
 date: 2024-03-29
-title: *L’Etranger,* Folio, p. 152-154 ; analyse linéaire
+title: L’Etranger, Folio, p. 152-154 ; analyse linéaire
 ---
 
 ## Introduction
