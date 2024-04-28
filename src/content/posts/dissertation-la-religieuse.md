@@ -1,10 +1,10 @@
 ---
 tags: cours
 date: 2024-03-29
-title: Corrigé de dissertation: la Religieuse
+title: "Corrigé de dissertation: la Religieuse"
 ---
 
-Deux très bonnes copies, chacune organisée autour de la volonté de montrer que le roman de Diderot exploite une forme d’obscurité pour favoriser le pathétique. Cela revenait à illustrer la déclaration donnée dans le sujet en prenant pour base l’idée que *La Religieuse* vise à émouvoir.
+Deux très bonnes copies, chacune organisée autour de la volonté de montrer que le roman de Diderot exploite une forme d’obscurité pour favoriser le pathétique. Cela revenait à illustrer la déclaration donnée dans le sujet en prenant pour base l’idée que _La Religieuse_ vise à émouvoir.
 
 Un premier plan :
 
@@ -65,7 +65,7 @@ Autre proposition ; je reprends la citation :
 Une opposition, familière à Diderot et même obsédante pour lui, entre convaincre et émouvoir, la clarté étant mise dans le premier camp et étant absente du second. On peut suppléer ce quatrième terme, manquant :
 
 | clarté     | \[obscurité\] |
-|------------|---------------|
+| ---------- | ------------- |
 | convaincre | émouvoir      |
 
 Ainsi, si quelque chose est bon pour un côté et ne vaut rien pour l’autre, on en déduit que les deux côtés sont aux antipodes l’un de l’autre.
@@ -107,11 +107,11 @@ La clarté, vertu française : nommer, ordonner, hiérarchiser.
 On aimerait fabriquer un Diderot romantique, sublime, ténébreux.
 
 | Problématique : est-il bien assuré que, même dans un roman, le philosophe des Lumières vise exclusivement à émouvoir, en renonçant à la clarté ? à moins qu’il n’invente une lumière impossible, ténébreuse ? |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 Introduction
 
-*La Religieuse* et le roman gothique
+_La Religieuse_ et le roman gothique
 
 1.  L’évidence des ténèbres
 
