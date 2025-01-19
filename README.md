@@ -5,37 +5,6 @@
 Pour ajouter un post (article, cours ou livre): ajouter un fichier .md dans le dossier [/src/content/posts/](/src/content/posts/).
 Le contenu est écrit à l'aide de la syntaxe [Markdown](https://www.markdownguide.org/cheat-sheet/). 
 
-### Frontmatter
-
-Le frontmatter est définit au début du fichier entre les séparateur `---`.
-Pour écrire une valeur sur plusieurs lignes vous pouvez utiliser le caractère `|` et précéder chacune des lignes par deux espaces.
-
-```md
----
-tags: articles
-category: Théorie
-date: 2014-01-01
-title: "Lukács: Les aventures de la pensée"
-pdf: les-aventures-de-la-pensee
-description: |
-  Ceci est la **description** de ma page.
-  Si je veux elle sera super _longue_!
----
-
-Le contenu de la page suit le second `---`.
-```
-
-Valeurs du frontmatter.
-
-| Entrées     | Type de valeur                             | Fonction                                                  | Obligatoire | Types de post concernés |
-| ----------- | ------------------------------------------ | --------------------------------------------------------- | ----------- | ----------------------- |
-| tags        | `cours` ou `livres` ou `articles`          | Permet de définir dans quelle liste le post sera affichée | oui         | tous                    |
-| title       | texte                                      | titre du projet                                           | oui         | tous                    |
-| date        | date au format aaaa-mm-jj                  | 1993-01-09                                                | oui         | tous                    |
-| pdf         | nom du fichier pdf sans l'extension ".pdf" | permet d'ajouter un lien vers un fichier pdf              | non         | tous                    |
-| description | texte                                      | Résumé du post. Pour les livres et les cours.             | non         | livres et cours         |
-| category    | catégorie du l'article                     | Permet de trier les articles par catégorie                | oui         | articles                |
-
 ## Ajouter un fichier pdf
 
 Pour ajouter un fichier pdf au site.
@@ -90,3 +59,19 @@ description: >-
 
 Description du livre
 ```
+
+## Frontmatter
+
+Le frontmatter est définit au début du fichier entre les séparateur `---`.
+Pour écrire une valeur sur plusieurs lignes vous pouvez utiliser le caractère `|` et précéder chacune des lignes par deux espaces.
+
+Valeurs du frontmatter.
+
+| Entrées     | Type de valeur                             | Fonction                                                  | Obligatoire | Types de post concernés |
+| ----------- | ------------------------------------------ | --------------------------------------------------------- | ----------- | ----------------------- |
+| tags        | `cours` ou `livres` ou `articles`          | Permet de définir dans quelle liste le post sera affichée | oui         | tous                    |
+| title       | texte                                      | titre du projet                                           | oui         | tous                    |
+| date        | date au format aaaa-mm-jj                  | 1993-01-09                                                | oui         | tous                    |
+| pdf         | nom du fichier pdf sans l'extension ".pdf" | permet d'ajouter un lien vers un fichier pdf              | non         | tous                    |
+| description | texte                                      | Résumé du post. Pour les livres et les cours.             | non         | livres et cours         |
+| category    | catégorie du l'article                     | Permet de trier les articles par catégorie                | oui         | articles                |
