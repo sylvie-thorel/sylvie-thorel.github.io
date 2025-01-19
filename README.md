@@ -2,8 +2,8 @@
 
 ## Créer un post
 
-Pour ajouter un post (article, cours ou livre): ajouter un fichier dans le dossier [/src/content/posts/](/src/content/posts/).
-Le contenu est écrit à l'aide de la syntaxe [Markdown](https://www.markdownguide.org/cheat-sheet/) dans les fichiers `.md`. Le "frontmatter" écrit en [Yaml](https://learnxinyminutes.com/docs/yaml/) permet de définir des métadonnées telles qu'un titre ou la date.
+Pour ajouter un post (article, cours ou livre): ajouter un fichier .md dans le dossier [/src/content/posts/](/src/content/posts/).
+Le contenu est écrit à l'aide de la syntaxe [Markdown](https://www.markdownguide.org/cheat-sheet/). 
 
 ### Frontmatter
 
