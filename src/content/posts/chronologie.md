@@ -1,6 +1,6 @@
 ---
 tags: cours
-title: Histoire des Treize
+title: Histoire des Treize, chronologie 1789-1848
 date: 2025-01-19
 description: "Pour situer les événements historiques évoqués dans les trois nouvelles"
 pdf: chronologie-succincte-1789-1848
