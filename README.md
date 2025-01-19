@@ -2,7 +2,7 @@
 
 ## Créer un post
 
-Pour ajouter un article: ajouter un fichier dans le dossier [/src/content/posts/](/src/content/posts/).
+Pour ajouter un post (article, cours ou livre): ajouter un fichier dans le dossier [/src/content/posts/](/src/content/posts/).
 Le contenu est écrit à l'aide de la syntaxe [Markdown](https://www.markdownguide.org/cheat-sheet/) dans les fichiers `.md`. Le "frontmatter" écrit en [Yaml](https://learnxinyminutes.com/docs/yaml/) permet de définir des métadonnées telles qu'un titre ou la date.
 
 ### Frontmatter
@@ -30,10 +30,10 @@ Valeurs du frontmatter.
 | Entrées     | Type de valeur                             | Fonction                                                  | Obligatoire | Types de post concernés |
 | ----------- | ------------------------------------------ | --------------------------------------------------------- | ----------- | ----------------------- |
 | tags        | `cours` ou `livres` ou `articles`          | Permet de définir dans quelle liste le post sera affichée | oui         | tous                    |
-| title       | chaîne de caractère                        | titre du projet                                           | oui         | tous                    |
+| title       | texte                                      | titre du projet                                           | oui         | tous                    |
 | date        | date au format aaaa-mm-jj                  | 1993-01-09                                                | oui         | tous                    |
 | pdf         | nom du fichier pdf sans l'extension ".pdf" | permet d'ajouter un lien vers un fichier pdf              | non         | tous                    |
-| description | chaîne de caractère                        | Description du post. Pour les livres et les cours         | non         | livres et cours         |
+| description | texte                                      | Résumé du post. Pour les livres et les cours.             | non         | livres et cours         |
 | category    | catégorie du l'article                     | Permet de trier les articles par catégorie                | oui         | articles                |
 
 ## Ajouter un fichier pdf
@@ -41,7 +41,8 @@ Valeurs du frontmatter.
 Pour ajouter un fichier pdf au site.
 
 - Ajouter le fichiers dans le dossier [/public/](/public/)
-- ajouter l'entrée `pdf: nomdufichier` dans le frontmatter du post concerné
+- Les noms de fichiers ne doivent contenir que des minuscules et des tirets. ~Cours sur Mérimée.pdf~ => cours-sur-merimee.pdf
+- ajouter l'entrée `pdf: cours-sur-merimee` dans le frontmatter du post concerné
 
 ## Exemples
 
