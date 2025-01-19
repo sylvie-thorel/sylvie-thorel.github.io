@@ -2,7 +2,7 @@
 tags: cours
 title: Chronologie 1789-1848
 date: 2025-01-19
-description: "Pour situer les événements historiques évoqués dans *Armance* et *Histoire des Treize*"
+description: "Pour situer les événements historiques évoqués dans Armance et Histoire des Treize"
 pdf: chronologie-succincte-1789-1848
 ---
 
