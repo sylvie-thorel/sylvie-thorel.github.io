@@ -1,10 +1,5 @@
 # Mode d'emploi
 
-## Créer un post
-
-Pour ajouter un post (article, cours ou livre): ajouter un fichier .md dans le dossier [/src/content/posts/](/src/content/posts/).
-Le contenu est écrit à l'aide de la syntaxe [Markdown](https://www.markdownguide.org/cheat-sheet/). 
-
 ## Ajouter un fichier pdf
 
 Pour ajouter un fichier pdf au site.
@@ -12,6 +7,11 @@ Pour ajouter un fichier pdf au site.
 - Ajouter le fichiers dans le dossier [/public/](/public/)
 - Les noms de fichiers ne doivent contenir que des minuscules et des tirets. ~Cours sur Mérimée.pdf~ => cours-sur-merimee.pdf
 - ajouter l'entrée `pdf: cours-sur-merimee` dans le frontmatter du post concerné
+
+## Créer un post
+
+Pour ajouter un post (article, cours ou livre): ajouter un fichier .md dans le dossier [/src/content/posts/](/src/content/posts/).
+Le contenu est écrit à l'aide de la syntaxe [Markdown](https://www.markdownguide.org/cheat-sheet/). 
 
 ## Exemples
 
