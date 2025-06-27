@@ -1,0 +1,10 @@
+.portrait {
+  margin-block-end: var(--space-xl);
+}
+
+.portrait figcaption {
+  font-size: var(--fs--1);
+  font-style: italic;
+  text-align: right;
+  margin-block-start: 1em;
+}

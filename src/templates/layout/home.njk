@@ -1,10 +1,14 @@
 {% extends 'layout/withAside.njk' %}
 
 {% block aside %}
-    <a href="mailto:{{email}}">{{email}}</a>
-    {% for label, value in contacts %}{% endfor %}
 {% endblock %}
 
 {% block main %}
     {{ content | safe}}
+    <figure class="portrait">
+      <a href="/portrait.jpeg">
+        <img src="/portrait.png" />
+      </a>
+      <figcaption>par Miyuka Shipfer</figcaption>
+    </figure>
 {% endblock %}
