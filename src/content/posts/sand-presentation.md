@@ -1,6 +1,6 @@
 ---
 tags: cours
-title: Georges Snd
+title: Georges Sand
 date: 2026-02-01
 ---
 
@@ -854,5 +854,6 @@ Ne hausserez-vous pas les épaules, si je vous avoue que je prenais le plus gran
 Voici à présent Marcasse, dont l’activité de colporteur annonce ici le prochain voyage en Amérique ; vous noterez au passage que ce personnage est ici désigné comme un « hidalgo », ce qui suggère de voir en lui (je pense à sa maigreur et à son épée) une forme de nouveau matamore :
 
 Cependant Marcasse en avait compris assez pour embrasser les idées républicaines et pour partager les romanesques espérances de nivellement universel et de retour à l’égalité de l’âge d’or que nourrissait ardemment le bonhomme Patience. Ayant plusieurs fois ouï dire à son ami qu’il fallait cultiver ces doctrines avec prudence (précepte que, d’ailleurs Patience n’observait guère pour son propre compte), l’hidalgo, puissamment aidé par son habitude et son penchant, ne parlait jamais de sa philosophie ; mais il faisait une propagande plus efficace, en colportant du château à la chaumière et de la maison bourgeoise à la ferme, ces petites éditions à bon marché de La Science du bonhomme Richard, et d’autres menus traités de patriotisme populaire, que, selon la société jésuitique, une société secrète de philosophie voltairiens, voués aux pratiques diaboliques de la franc-maçonnerie, faisait circuler gratis dans les basses classes (p. 260).
+
 
 
